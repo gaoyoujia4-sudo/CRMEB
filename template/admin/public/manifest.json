@@ -1,0 +1,13 @@
+{
+    "name":"孙行者研学科技商城",
+    "display":"standalone",
+    "start_url":".",
+    "id": "index.html",
+    "background_color": "#999",
+    "theme_color":"#292d3e",
+    "icons":[{
+        "src":"./image/logo-small.png",
+        "sizes":"144x144",
+        "type":"image/png"
+    }]
+}
